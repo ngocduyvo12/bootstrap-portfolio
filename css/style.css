@@ -6,7 +6,7 @@ html, body {
 
 .imgcontainer {
     position: relative;
-
+    padding: 20px;
 }
 
 .imgcaption {
