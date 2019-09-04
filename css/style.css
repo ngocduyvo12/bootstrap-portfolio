@@ -3,6 +3,21 @@ html, body {
     background-image: url(../images/leaves.png)
 }
 
+
+.imgcontainer {
+    position: relative;
+
+}
+
+.imgcaption {
+    position: absolute;
+    bottom: 37px;
+    background-color: #4aaaa5;
+    width: 200px;
+    padding: 10px 0;
+    margin: 5px;
+    text-align: center;
+}
 /* #brandName {
 margin-left: 288px;
 padding: 20px !important;
