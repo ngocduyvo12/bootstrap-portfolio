@@ -9,14 +9,11 @@ html, body {
     padding: 20px;
 }
 
-.imgcaption {
-    position: absolute;
+.cardTitleAlign {
+
     bottom: 37px;
     background-color: #4aaaa5;
-    width: 200px;
-    padding: 10px 0;
-    margin: 5px;
-    text-align: center;
+
 }
 /* #brandName {
 margin-left: 288px;
